@@ -3,10 +3,24 @@
 # Professor Citro
 # Project 1: Visualize ODE with Scipy
 
-# import numpy, scipy, and matplotlib
+# import numpy, scipy, and matplotlib, and datetime
 import numpy as np
 from scipy.integrate import odeint
 import matplotlib.pyplot as plt
+from datetime import datetime
+
+#start counting running time
+start = datetime.now()
+
+a = 0
+for i in range (1000):
+    a += (i**100)
+#stop counting
+end = datetime.now()
+
+td = (end - start).total_seconds() * 10**3
+                 # print running time to the terminal
+print(f"The time of execution is : {td:.03f}ms")
 
 # function that returns dy/dt (ODE)
 # Frame rate and frame size are inversely related therefore the equation is k/p
@@ -60,3 +74,5 @@ plt.ylabel('Frame Rate')
 # Showing plot legend
 plt.legend()
 plt.show()
+
+
