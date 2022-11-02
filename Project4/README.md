@@ -1,4 +1,4 @@
-# CST_305_Dylan-Haley
+# CST_305_Dylan-Haley Project 4 - Degradation of Data Integrity
 This is our repository for CST 305- Computer Graphics Lecture &amp; Lab
 
 
