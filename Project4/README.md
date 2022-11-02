@@ -10,9 +10,9 @@ This is a readme file consisting of directions on how to install Pycharm and run
 Cst-305 Haley Hansen and Dylan Dorough 
 
 1. Install PyCharm and its associated python edition.
- - go to the link https://www.jetbrains.com/pycharm/download/#section=windows
- - select community edition and continue with the installation steps
- - ensure that once downloaded, the program is able to start
+   - go to the link https://www.jetbrains.com/pycharm/download/#section=windows
+   - select community edition and continue with the installation steps
+   - ensure that once downloaded, the program is able to start
 2. For the python editions, utilize versions 2 & 3
    - use the link https://www.python.org/downloads/
    - scroll through the different versions, I used python version 3.10 (64 bit) 
