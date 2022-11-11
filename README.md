@@ -1,5 +1,5 @@
 # CST_305_Dylan-Haley
-This is our repository for CST 305- Computer Graphics Lecture &amp; Lab
+This is our repository for CST 305- Computer Graphics Lecture & Lab
 
 
 Project 1 - ReadME.md file contents 
