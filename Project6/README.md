@@ -21,7 +21,7 @@ Cst-305 Haley Hansen and Dylan Dorough
    - scroll through the different versions, I used python version 3.10 (64 bit) 
    - follow the installation steps and ensure that the program can open
 3. Open Pycharm and locate your python file (extension for pycharm files end in .py)
-   - In this case, it is our Project 6.py and Project6Part3.py located in this repository
+   - In this case, it is our Project6.py and Project6Part3.py located in this repository
 4. If a file is not already downloaded
    - navigate to file > create a new file > name the file <filename>.py
 5. Once the file is loaded, make sure to install all necessary packages.
