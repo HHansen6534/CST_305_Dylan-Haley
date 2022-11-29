@@ -3,6 +3,8 @@ This is our repository for CST 305- Computer Modeling Lecture & Lab
 
 
 Project 6 – Numeric Computations with Taylor Polynomials
+
+
 NOTE! Project6.py contains the graphs and outputs for Part 1a, 1b, and Part 2. The file Project6Part3.py displays the output of our mathematical model.
 
 ReadME.md file contents 
