@@ -5,7 +5,7 @@ This is our repository for CST 305- Computer Modeling Lecture & Lab
 Project 8 - Numerical Integration
 
 
-***NOTE! . 
+***NOTE! The outputs for part 1 a, b, c, and part 2 are all located in the file Project8.py.
 
 ReadME.md file contents 
 
@@ -21,7 +21,7 @@ Cst-305 Haley Hansen and Dylan Dorough
    - scroll through the different versions, I used python version 3.10 (64 bit) 
    - follow the installation steps and ensure that the program can open
 3. Open Pycharm and locate your python file (extension for pycharm files end in .py)
-   - In this case, it is our Project8_part
+   - In this case, it is our Project8.py
 4. If a file is not already downloaded
    - navigate to file > create a new file > name the file <filename>.py
 5. Once the file is loaded, make sure to install all necessary packages.
